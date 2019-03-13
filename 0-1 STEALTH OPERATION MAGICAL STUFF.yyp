@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "13900763-f364-4e03-a61e-3f94c41ee3d3",
+            "Value": {
+                "id": "01bbe95d-7c35-41db-94f4-5313975db436",
+                "resourcePath": "sounds\\_357_shot1\\_357_shot1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1b53d349-106a-48a3-b9ee-1311a4b5f816",
             "Value": {
                 "id": "12c03f36-d701-4f6c-a9e0-1f441589ca50",
@@ -68,6 +76,30 @@
                 "id": "ec1c51cd-ca28-4292-bac8-453c94944aa5",
                 "resourcePath": "views\\291e0a8d-928a-4808-b437-430d7a326da3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2947984a-0813-4067-b940-344f94fb39ac",
+            "Value": {
+                "id": "fbca3a9e-16ea-43ec-9298-f80933220899",
+                "resourcePath": "sounds\\cbar_hitbod3\\cbar_hitbod3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3611dceb-163c-49e6-85c1-817823c57605",
+            "Value": {
+                "id": "45c95666-62ff-48fb-b95c-48f258391940",
+                "resourcePath": "objects\\WEAPON\\WEAPON.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "37d47dc5-65da-4b1a-ad97-daa8f3f13556",
+            "Value": {
+                "id": "b08581cf-2e2f-42b9-a078-04e655c88ef0",
+                "resourcePath": "sounds\\sshell3\\sshell3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -127,14 +159,6 @@
             }
         },
         {
-            "Key": "6156e747-0f55-44ca-8b4a-218c4f7597d9",
-            "Value": {
-                "id": "c2f3032b-8e4a-40a2-9b5a-a7ed861c55c5",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "68cea989-9c56-4e64-8e9b-3beb38904369",
             "Value": {
                 "id": "8ec4320a-7696-4486-a636-36d68e5e68ad",
@@ -171,6 +195,14 @@
             "Value": {
                 "id": "0b2b65a1-7f25-491c-8485-f4cb3f5430dc",
                 "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a4e8ce44-834b-47f5-856e-a8c66ad75a36",
+            "Value": {
+                "id": "9dd5816f-3ac5-47db-8389-9e9ff8a682be",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
                 "resourceType": "GMSprite"
             }
         },
